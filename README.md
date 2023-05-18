@@ -16,8 +16,9 @@ Thanks for checking out my Github!
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanathan3)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-one-tan-93.vercel.app/api?username=seanathan3&show_icons=true&theme=tokyonight)](https://github.com/seanathan3/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats-one-tan-93.vercel.app/api/top-langs/?username=seanathan3&layout=compact&theme=tokyonight)](https://github.com/seanathan3/github-readme-stats)
 <!--
 **seanathan3/seanathan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
