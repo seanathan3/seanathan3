@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+Thanks for checking out my Github!
+
+- 🔭 I’m currently working on my full stack Amazon.com clone, Amazoo
+- 🌱 I’m currently learning Data Structures & Algorithms
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with TypeScript
+- 💬 Ask me about chess!
+- 📫 How to reach me: [Email](mailto:sean.abbas33@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm an Eagle Scout 🦅
+
+
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanathan3)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **seanathan3/seanathan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
